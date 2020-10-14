@@ -67,3 +67,7 @@
 [adabas-go-api](https://github.com/SoftwareAG/adabas-go-api) - This module provides direct access to Adabas database data in a Golang-based application. This contains all transactional operations on the database.
 
 [adabas-admin-restful-client](https://github.com/SoftwareAG/adabas-admin-restful-client) - Software AG Adabas RESTful client administration generated using the Adabas RESTful server SWAGGER definition.
+
+### Adabas Node.js packages
+
+[adabas-tcp](https://github.com/SoftwareAG/adabas-tcp) - adabas-tcp provides an access to Adabas from Node.js using the Adabas TCP connection.
