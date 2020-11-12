@@ -1,6 +1,6 @@
 # Awesome Software AG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
-<a href="https://www.softwareag.com/us/default.html"><img src="http://techcommunity.softwareag.com/download/developer-communities/logo.png" style="max-width: 75% !important;"></a></br>
+<a href="https://www.softwareag.com/us/default.html"><img src="https://info.softwareag.com/rs/858-DJP-749/images/SAG_logo_200x200_New.png" style="max-width: 75% !important;"></a></br>
 </p>
 
 
