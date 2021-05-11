@@ -14,4 +14,5 @@ You'll need a [GitHub account](https://github.com/join)!
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+7. Testing
 
