@@ -8,7 +8,7 @@ If you have something awesome to contribute to an awesome list, this is how you 
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome list's GitHub page: https://github.com/marielaSAG/awesome-softwareag.
+1. Access the awesome list's GitHub page: https://github.com/marielaSAG/awesome-softwareag
 2. Click on the `readme.md` file.
 3. Now click on the edit icon.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
