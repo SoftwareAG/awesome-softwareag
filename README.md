@@ -13,8 +13,8 @@ If you see a project that is no longer maintained or is not a good fit, please s
 * [webMethods](#webMethods)
 * [Cumulocity IoT](#Cumulocity-IoT)
 * [Adabas and Natural](#Adabas-and-Natural)
-  * [adapya – Adabas Python packages](#adapya–Adabas-Python-packages)
-  * [Adabas Node.js packages](#Adabas-Node.js-packages)
+  * [adapya – Adabas Python packages](#adapya--adabas-python-packages)
+  * [Adabas Node.js packages](#adabas-nodejs-packages)
 * [Aris](#Aris)
 * [Alfabet](#Alfabet)
  
@@ -58,6 +58,10 @@ If you see a project that is no longer maintained or is not a good fit, please s
 <br>
 
 ## Adabas and Natural
+
+[adabas-natural-code-samples](https://github.com/SoftwareAG/adabas-natural-code-samples) - A collection of Natural Code samples and snippets that can be used by Natural developers to implement standard or specific programming patterns.
+
+[adabas-rest-webapp](https://github.com/SoftwareAG/adabas-rest-webapp) - A web application that provides access to Adabas REST server tasks and data. 
 
 ### adapya – Adabas Python packages
 
