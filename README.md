@@ -5,7 +5,7 @@
 # Awesome Software AG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 **A curated list of awesome Software AG open source repositories, tools, libraries and other resources.**
 
-> If you want to contribute to this awesome list, please take a look at our [contribution guidelines](https://github.com/SoftwareAG/awesome-softwareag/blob/master/contributing.md). 
+> If you want to contribute to this awesome list, please take a look at our [contribution guidelines](https://github.com/SoftwareAG/awesome-softwareag/blob/master/CONTRIBUTING.md). 
 If you see a project that is no longer maintained or is not a good fit, please submit a pull request or [contact us](mailto:technologycommunity@softwareag.com?subject=Github/SoftwareAG). Thank you!
 
 
@@ -15,7 +15,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
 * [Adabas and Natural](#Adabas-and-Natural)
   * [adapya – Adabas Python packages](#adapya--adabas-python-packages)
   * [Adabas Node.js packages](#adabas-nodejs-packages)
-* [Aris](#Aris)
+* [ARIS](#aris)
 * [Alfabet](#Alfabet)
  
 ## webMethods
@@ -80,3 +80,10 @@ If you see a project that is no longer maintained or is not a good fit, please s
 ### Adabas Node.js packages
 
 [adabas-tcp](https://github.com/SoftwareAG/adabas-tcp) - adabas-tcp provides an access to Adabas from Node.js using the Adabas TCP connection.
+
+## ARIS
+
+[cumulocity-to-aris-pm](https://github.com/SoftwareAG/cumulocity-to-aris-pm) - This project is a template demoing how to transfer Cumulocity IoT data to an ARIS Process Mining tenant. It is composed of two microservices:
+
+- the first microservice creates the source tables in ARIS and upload the first set of data within it
+- the second one loads the data in the process storage of ARIS. 
