@@ -1,25 +1,32 @@
-# Awesome Software AG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
 <a href="https://www.softwareag.com/en_corporate.html"><img src="https://info.softwareag.com/rs/858-DJP-749/images/SAG_logo_200x200_New.png" style="max-width: 75% !important;"></a></br>
 </p>
+
+# Awesome Software AG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+**A curated list of awesome Software AG open source repositories, tools, libraries and other resources.**
+
+> If you want to contribute to this awesome list, please take a look at our [contribution guidelines](https://github.com/SoftwareAG/awesome-softwareag/blob/master/contributing.md). 
+If you see a project that is no longer maintained or is not a good fit, please submit a pull request or [contact us](mailto:technologycommunity@softwareag.com?subject=Github/SoftwareAG). Thank you!
 
 
 ## Contents
 * [webMethods](#webMethods)
 * [Cumulocity IoT](#Cumulocity-IoT)
 * [Adabas and Natural](#Adabas-and-Natural)
+  * [adapya – Adabas Python packages](#adapya–Adabas-Python-packages)
+  * [Adabas Node.js packages](#Adabas-Node.js-packages)
 * [Aris](#Aris)
 * [Alfabet](#Alfabet)
  
 ## webMethods
  
-[webmethodsio-examples](https://github.com/SoftwareAG/webmethodsio-examples) - Collection of examples for beginner webMethods-io developers. It consists of common use cases and starting points for developers getting up to speed with webMethods.io. webMethods.io is an integration platform that enables a wide variety of integration tasks to be accomplishes quickly and easily with a graphical/api interface.
+[webMethods-io-examples](https://github.com/SoftwareAG/webMethods-io-examples) - Collection of examples for beginner webMethods.io developers. It consists of common use cases and starting points for developers getting up to speed with webMethods.io. webMethods.io is an integration platform that enables a wide variety of integration tasks to be accomplishes quickly and easily with a graphical/API interface.
 
 [webmethods-suite-logfile-archiver](https://github.com/SoftwareAG/webmethods-suite-logfile-archiver) - Archive and (after a customizable retention period) delete log files from webMethods Suite products.
 
 [webmethods-integrationserver-wxsocketadapter](https://github.com/SoftwareAG/webmethods-integrationserver-wxsocketadapter) - This Socket Adapter project covers two demands of advanced Integration Server users and developers:
 
- &ndash; Demoing how to develop a custom coded on-premise Intgeration Server adapter.<br/>
+ &ndash; Demoing how to develop a custom coded on-premise Integration Server adapter.<br/>
  &ndash; Providing a light-weight way to connect low level devices and applications into the world of Integration Server.
  
 [webmethods-integration-examples](https://github.com/SoftwareAG/webmethods-integration-examples) - Collection of examples for using webMethods Integration platform.
@@ -28,29 +35,25 @@
  
 [webmethods-integrationserver-skyprofiler](https://github.com/SoftwareAG/webmethods-integrationserver-skyprofiler) - SKYProfiler is a performance monitoring tool for Integration Server. SKYProfiler tracks the service invocations and the monitored data can be seen in real time.
 
-[webmethods-opencaf-codesample](https://github.com/SoftwareAG/webmethods-opencaf-codesample) - This OpenCAF showcase demonstrates the majority of default JSF components available in webMethods Composite Application Framework (CAF)
+[webmethods-opencaf-codesample](https://github.com/SoftwareAG/webmethods-opencaf-codesample) - This OpenCAF showcase demonstrates the majority of default JSF components available in webMethods Composite Application Framework (CAF).
  
 <br>
 
 ## Cumulocity IoT
 
-[cumulocity-migration-tool](https://github.com/SoftwareAG/cumulocity-migration-tool) - A Cumuocity webapp to migrate applications, dashboards, groups, devices, simulators, smart rules, images, and managed objects between tenants.
+[cumulocity-migration-tool](https://github.com/SoftwareAG/cumulocity-migration-tool) - A Cumuocity web app to migrate applications, dashboards, groups, devices, simulators, smart rules, images, and managed objects between tenants.
 
-[cumulocity-iot-examples](https://github.com/SoftwareAG/cumulocity-iot-examples) - Collection of examples for beginner Cumulocity developers.
+[cumulocity-iot-examples](https://github.com/SoftwareAG/cumulocity-iot-examples) - Collection of examples for beginner Cumulocity IoT developers.
 
-[cumulocityr](https://github.com/SoftwareAG/cumulocityr)- R client for the Cumulocity API. 
+[cumulocityr](https://github.com/SoftwareAG/cumulocityr) - R client for the Cumulocity IoT API. 
 
-[c8yMQTT](https://github.com/SoftwareAG/c8yMQTT) - Python3 Cumulocity Agent implementation for MQTT and Rasperry PI.
+[c8yMQTT](https://github.com/SoftwareAG/c8yMQTT) - Python3 Cumulocity IoT Agent implementation for MQTT and Rasperry PI.
 
-[cumulocity-xdk-agent](https://github.com/SoftwareAG/cumulocity-xdk-agent) - Device agent for Bosch XDK to connect to Cumulocity.
+[cumulocity-xdk-agent](https://github.com/SoftwareAG/cumulocity-xdk-agent) - Device agent for Bosch XDK to connect to Cumulocity IoT.
 
-[cumulocity-app-builder](https://github.com/SoftwareAG/cumulocity-app-builder) - Application builder for Cumulocity. Simple way to combine dashboards into a full web application with no coding.
+[cumulocity-app-builder](https://github.com/SoftwareAG/cumulocity-app-builder) - Application builder for Cumulocity IoT. A simple way to combine dashboards into a full web application with no coding.
 
-[cumulocity-collada-3d-widget](https://github.com/SoftwareAG/cumulocity-collada-3d-widget) - A ThreeJS based 3d viewer for Collada files in Cumulocity.
-
-[cumulocity-hono-agent](https://github.com/SoftwareAG/cumulocity-hono-agent) - Cumulocity Agent which integrates to Eclipse Hono. Telemetry + Command & Control is supported. 
-
-[c8y_hw_mqtt](https://github.com/SoftwareAG/c8y_hw_mqtt) - Cumulocity IoT - Device integration using MQTT in Java, Python, Node.js and C# (using Docker).
+[cumulocity-hono-agent](https://github.com/SoftwareAG/cumulocity-hono-agent) - Cumulocity IoT Agent which integrates to Eclipse Hono. Telemetry + Command & Control is supported. 
 
 <br>
 
