@@ -16,7 +16,6 @@ If you see a project that is no longer maintained or is not a good fit, please s
   * [adapya – Adabas Python packages](#adapya--adabas-python-packages)
   * [Adabas Node.js packages](#adabas-nodejs-packages)
 * [ARIS](#aris)
-* [Alfabet](#Alfabet)
  
 ## webMethods
  
@@ -36,8 +35,10 @@ If you see a project that is no longer maintained or is not a good fit, please s
 [webmethods-integrationserver-skyprofiler](https://github.com/SoftwareAG/webmethods-integrationserver-skyprofiler) - SKYProfiler is a performance monitoring tool for Integration Server. SKYProfiler tracks the service invocations and the monitored data can be seen in real time.
 
 [webmethods-opencaf-codesample](https://github.com/SoftwareAG/webmethods-opencaf-codesample) - This OpenCAF showcase demonstrates the majority of default JSF components available in webMethods Composite Application Framework (CAF).
- 
+
 <br>
+
+[![124621](https://user-images.githubusercontent.com/23717841/228481674-58d1678e-7206-4367-a211-2ecdd376e0e2.png) Back to top](#contents)
 
 ## Cumulocity IoT
 
@@ -56,6 +57,8 @@ If you see a project that is no longer maintained or is not a good fit, please s
 [cumulocity-hono-agent](https://github.com/SoftwareAG/cumulocity-hono-agent) - Cumulocity IoT Agent which integrates to Eclipse Hono. Telemetry + Command & Control is supported. 
 
 <br>
+
+[![124621](https://user-images.githubusercontent.com/23717841/228481674-58d1678e-7206-4367-a211-2ecdd376e0e2.png) Back to top](#contents)
 
 ## Adabas and Natural
 
@@ -81,9 +84,17 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 [adabas-tcp](https://github.com/SoftwareAG/adabas-tcp) - adabas-tcp provides an access to Adabas from Node.js using the Adabas TCP connection.
 
+<br>
+
+[![124621](https://user-images.githubusercontent.com/23717841/228481674-58d1678e-7206-4367-a211-2ecdd376e0e2.png) Back to top](#contents)
+
 ## ARIS
 
 [cumulocity-to-aris-pm](https://github.com/SoftwareAG/cumulocity-to-aris-pm) - This project is a template demoing how to transfer Cumulocity IoT data to an ARIS Process Mining tenant. It is composed of two microservices:
 
 - the first microservice creates the source tables in ARIS and upload the first set of data within it
 - the second one loads the data in the process storage of ARIS. 
+
+<br>
+
+[![124621](https://user-images.githubusercontent.com/23717841/228481674-58d1678e-7206-4367-a211-2ecdd376e0e2.png) Back to top](#contents)
