@@ -13,6 +13,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
 * [webMethods](#webmethods)
 * [Cumulocity IoT](#cumulocity-iot)
   * [Cumulocity IoT custom widgets](#cumulocity-iot-custom-widgets)
+  * [Cumulocity IoT device agents](#cumulocity-iot-device-agents)
 * [Adabas and Natural](#adabas-and-natural)
   * [adapya – Adabas Python packages](#adapya--adabas-python-packages)
   * [Adabas Node.js packages](#adabas-nodejs-packages)
@@ -43,6 +44,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 ## Cumulocity IoT
 
+[cumulocity-os-repo-overview](https://github.com/SoftwareAG/cumulocity-os-repo-overview) - This repository generates on a daily basis a table of all open-source repositories for Cumulocity IoT. It gives a brief overview of all available IoT open-source repositories for Cumulocity IoT.
 
 [cumulocity-migration-tool](https://github.com/SoftwareAG/cumulocity-migration-tool) - A Cumuocity web app to migrate applications, dashboards, groups, devices, simulators, smart rules, images, and managed objects between tenants.
 
@@ -50,13 +52,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 [cumulocityr](https://github.com/SoftwareAG/cumulocityr) - R client for the Cumulocity IoT API. 
 
-[c8yMQTT](https://github.com/SoftwareAG/c8yMQTT) - Python3 Cumulocity IoT Agent implementation for MQTT and Rasperry PI.
-
-[cumulocity-xdk-agent](https://github.com/SoftwareAG/cumulocity-xdk-agent) - Device agent for Bosch XDK to connect to Cumulocity IoT.
-
 [cumulocity-app-builder](https://github.com/SoftwareAG/cumulocity-app-builder) - Application builder for Cumulocity IoT. A simple way to combine dashboards into a full web application with no coding.
-
-[cumulocity-hono-agent](https://github.com/SoftwareAG/cumulocity-hono-agent) - Cumulocity IoT Agent which integrates to Eclipse Hono. Telemetry + Command & Control is supported. 
 
 ### Cumulocity IoT custom widgets
 [cumulocity-demo-widget](https://github.com/SoftwareAG/cumulocity-demo-widget) - The Demo Widget for Cumulocity IoT projects is created using Angular Library and later it's deployed in App Builder as a Cumulocity IoT widget. It fetches Inventory data based on the device id and displays the same in a widget.
@@ -95,6 +91,31 @@ If you see a project that is no longer maintained or is not a good fit, please s
 * [Cumulocity IoT compass widget](https://github.com/SoftwareAG/cumulocity-compass-widget)
 * [Cumulocity IoT devices details widget](https://github.com/SoftwareAG/cumulocity-device-details-widget)
 
+</details>
+
+### Cumulocity IoT device agents
+[cumulocity-devicemanagement-agent](https://github.com/SoftwareAG/cumulocity-devicemanagement-agent) - A Cumulocity IoT Reference Agent written in Python to demonstrate most of the Device Management Capabilities of Cumulocity IoT. The agent can be run in a docker container or natively on a device with preferrable with linux OS (e.g raspberry pi) or any other operating system.
+
+[c8yMQTT](https://github.com/SoftwareAG/c8yMQTT) - A Python3 Cumulocity Agent for MQTT and Rasperry PI. The Cumulocity Python agent is divided into two Python modules.
+
+[cumulocity-agents-linux](https://github.com/SoftwareAG/cumulocity-agents-linux) - The Cumulocity IoT Linux agent is a generic agent for connecting Linux-powered devices to Cumulocity's IoT platform. It runs on all major Linux distributions (Ubuntu, Debian, Raspberry Pi OS, CentOS, etc.).
+
+[cumulocity-python-agent](https://github.com/SoftwareAG/cumulocity-python-agent) - A Cumulocity IoT Agent in Python containing the basic functionalities.
+
+[cumulocity-remote-access-agent](https://github.com/SoftwareAG/cumulocity-remote-access-agent) - A simple Python agent demonstrating the remote access capabilities of Cumulocity IoT. The main purpose is to demonstrate and use the Cloud Remote Access in other agents.
+
+[cumulocity-agents-netcomm](https://github.com/SoftwareAG/cumulocity-agents-netcomm) - The Cumulocity NetComm Agent is a dedicated agent software for connecting the NetComm router to Cumulocity IoT.
+
+[cumulocity-hono-agent](https://github.com/SoftwareAG/cumulocity-hono-agent) - This is an agent/microservice that integrates with Eclipse Hono. This Microservice will act as a Consumer Application, listens to all Telemetry & Event Data provided by Hono and forward the Data to Cumulocity IoT.
+
+<details>
+<summary>More Awesome Cumulocity IoT agents</summary>
+* [cumulocity-dynamic-mqtt-mapper](https://github.com/SoftwareAG/cumulocity-dynamic-mqtt-mapper)
+* [cumulocity-rest2mqtt-bridge](https://github.com/SoftwareAG/cumulocity-rest2mqtt-bridge)
+* [cumulocity-iec104](https://github.com/SoftwareAG/cumulocity-iec104)
+* [cumulocity-agents-opc](https://github.com/SoftwareAG/cumulocity-agents-opc)
+* [cumulocity-electron-agent](https://github.com/SoftwareAG/cumulocity-electron-agent)
+* [cumulocity-modbus-demo](https://github.com/SoftwareAG/cumulocity-modbus-demo)
 </details>
 
 <br>
