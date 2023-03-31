@@ -83,7 +83,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
 * [Cumulocity IoT tracking replay widget](https://github.com/SoftwareAG/cumulocity-tracking-replay-map-widget)
 * [Cumulocity IoT silo capacity widget](https://github.com/SoftwareAG/cumulocity-silo-capacity-widget)
 * [Cumulocity IoT weather forecast widget](https://github.com/SoftwareAG/cumulocity-weather-forecast-widget)
-* [Cumulocity IoT Devices at risk widget](https://github.com/SoftwareAG/cumulocity-device-at-risk-widget)
+* [Cumulocity IoT devices at risk widget](https://github.com/SoftwareAG/cumulocity-device-at-risk-widget)
 * [Cumulocity IoT Trendminer chart widget](https://github.com/SoftwareAG/trendminer-chart-widget)
 * [Cumulocity IoT advanced radial gauge widget](https://github.com/SoftwareAG/cumulocity-advanced-radial-gauge-widget)
 * [Cumulocity IoT ticketing integration setup widget](https://github.com/SoftwareAG/c8y-ticketing-integration-setup-widget)
@@ -110,12 +110,14 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 <details>
 <summary>More Awesome Cumulocity IoT agents</summary>
-* [cumulocity-dynamic-mqtt-mapper](https://github.com/SoftwareAG/cumulocity-dynamic-mqtt-mapper)
-* [cumulocity-rest2mqtt-bridge](https://github.com/SoftwareAG/cumulocity-rest2mqtt-bridge)
-* [cumulocity-iec104](https://github.com/SoftwareAG/cumulocity-iec104)
-* [cumulocity-agents-opc](https://github.com/SoftwareAG/cumulocity-agents-opc)
-* [cumulocity-electron-agent](https://github.com/SoftwareAG/cumulocity-electron-agent)
-* [cumulocity-modbus-demo](https://github.com/SoftwareAG/cumulocity-modbus-demo)
+
+* [Cumulocity IoT Dynamic MQTT Mapping Service](https://github.com/SoftwareAG/cumulocity-dynamic-mqtt-mapper)
+* [Cumulocity IoT REST to MQTT bridge](https://github.com/SoftwareAG/cumulocity-rest2mqtt-bridge)
+* [Cumulocity IoT IEC 60870-5-104 protocol](https://github.com/SoftwareAG/cumulocity-iec104)
+* [Cumulocity IoT OPC-UA agent for Java](https://github.com/SoftwareAG/cumulocity-agents-opc)
+* [Cumulocity IoT electron agent](https://github.com/SoftwareAG/cumulocity-electron-agent)
+* [Cumulocity IoT Modbus Demo](https://github.com/SoftwareAG/cumulocity-modbus-demo)
+
 </details>
 
 <br>
