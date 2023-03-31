@@ -10,9 +10,10 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 
 ## Contents
-* [webMethods](#webMethods)
-* [Cumulocity IoT](#Cumulocity-IoT)
-* [Adabas and Natural](#Adabas-and-Natural)
+* [webMethods](#webmethods)
+* [Cumulocity IoT](#cumulocity-iot)
+  * [Cumulocity IoT custom widgets](#cumulocity-iot-custom-widgets)
+* [Adabas and Natural](#adabas-and-natural)
   * [adapya – Adabas Python packages](#adapya--adabas-python-packages)
   * [Adabas Node.js packages](#adabas-nodejs-packages)
 * [ARIS](#aris)
@@ -42,6 +43,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 ## Cumulocity IoT
 
+
 [cumulocity-migration-tool](https://github.com/SoftwareAG/cumulocity-migration-tool) - A Cumuocity web app to migrate applications, dashboards, groups, devices, simulators, smart rules, images, and managed objects between tenants.
 
 [cumulocity-iot-examples](https://github.com/SoftwareAG/cumulocity-iot-examples) - Collection of examples for beginner Cumulocity IoT developers.
@@ -55,6 +57,45 @@ If you see a project that is no longer maintained or is not a good fit, please s
 [cumulocity-app-builder](https://github.com/SoftwareAG/cumulocity-app-builder) - Application builder for Cumulocity IoT. A simple way to combine dashboards into a full web application with no coding.
 
 [cumulocity-hono-agent](https://github.com/SoftwareAG/cumulocity-hono-agent) - Cumulocity IoT Agent which integrates to Eclipse Hono. Telemetry + Command & Control is supported. 
+
+### Cumulocity IoT custom widgets
+[cumulocity-demo-widget](https://github.com/SoftwareAG/cumulocity-demo-widget) - The Demo Widget for Cumulocity IoT projects is created using Angular Library and later it's deployed in App Builder as a Cumulocity IoT widget. It fetches Inventory data based on the device id and displays the same in a widget.
+
+[cumulocity-smart-map-widget](https://github.com/SoftwareAG/cumulocity-smart-map-widget) - The Smart Map widget helps you to track real-time device locations indoors with multi-floor infrastructure as well as outdoors.
+
+[cumulocity-device-chart-widget](https://github.com/SoftwareAG/cumulocity-device-chart-widget) - This is an Angular widget, which is designed to display the chart based on the device-specific inventory data. The widget also comes with an inbuilt color picker, which helps you to customize chart/border colors. It includes a wide variety of chart types - Vertical Bar Chart, Horizontal Bar Chart, Donut Chart, Pie Chart and etc.
+
+[cumulocity-datapoints-charting-widget](https://github.com/SoftwareAG/cumulocity-datapoints-charting-widget) - The Data Points Charting Widget allows you to create real-time graphs showing customizable amounts of data from one or more devices. It supports a wide variety of chart types, including line charts, bar charts, and donut charts.
+
+[cumulocity-smart-map-settings-widget](https://github.com/SoftwareAG/cumulocity-smart-map-settings-widget) - The Smart map settings widget is created using Angular Library and it can be deployed in App Builder and Cockpit as a Cumulocity IoT widget. It allows you to mark and create a Geography on a specified location. After the Geography is created, it allows you to create floors, Geofences, and device positioning. 
+
+[cumulocity-data-points-map-widget](https://github.com/SoftwareAG/cumulocity-data-points-map-widget) - The Data Points Map widget displays measurements and device locations on the map. The widget works for single devices and device groups. The clustering of markers can be enabled in case you need to support a large set of devices.
+
+<details>
+<summary>More Awesome Cumulocity IoT widgets</summary>
+
+* [Cumulocity IoT 3D model viewer widget](https://github.com/SoftwareAG/cumulocity-3d-model-viewer-widget)
+* [Cumulocity IoT DataHub widget](https://github.com/SoftwareAG/cumulocity-datahub-widget)
+* [Cumulocity IoT indoor air quality widget](https://github.com/SoftwareAG/cumulocity-indoor-air-quality-widget) 
+* [Cumulocity IoT image animation widget](https://github.com/SoftwareAG/cumulocity-image-animation-widget)
+* [Cumulocity IoT video widget](https://github.com/SoftwareAG/cumulocity-video-widget)
+* [Cumulocity IoT asset viewer widget](https://github.com/SoftwareAG/cumulocity-asset-viewer-widget)
+* [Cumulocity IoT Markdown widget](https://github.com/SoftwareAG/cumulocity-markdown-widget) 
+* [Cumulocity IoT KPI overview widget](https://github.com/SoftwareAG/cumulocity-kpi-overview-widget)
+* [Cumulocity IoT bar chart widget](https://github.com/SoftwareAG/cumulocity-barchart-widget)
+* [Cumulocity IoT Power BI widget](https://github.com/SoftwareAG/cumulocity-power-bi-widget)
+* [Cumulocity IoT tracking replay widget](https://github.com/SoftwareAG/cumulocity-tracking-replay-map-widget)
+* [Cumulocity IoT silo capacity widget](https://github.com/SoftwareAG/cumulocity-silo-capacity-widget)
+* [Cumulocity IoT weather forecast widget](https://github.com/SoftwareAG/cumulocity-weather-forecast-widget)
+* [Cumulocity IoT Devices at risk widget](https://github.com/SoftwareAG/cumulocity-device-at-risk-widget)
+* [Cumulocity IoT Trendminer chart widget](https://github.com/SoftwareAG/trendminer-chart-widget)
+* [Cumulocity IoT advanced radial gauge widget](https://github.com/SoftwareAG/cumulocity-advanced-radial-gauge-widget)
+* [Cumulocity IoT ticketing integration setup widget](https://github.com/SoftwareAG/c8y-ticketing-integration-setup-widget)
+* [Cumulocity IoT device control and status widget](https://github.com/SoftwareAG/cumulocity-device-control-widget)
+* [Cumulocity IoT compass widget](https://github.com/SoftwareAG/cumulocity-compass-widget)
+* [Cumulocity IoT devices details widget](https://github.com/SoftwareAG/cumulocity-device-details-widget)
+
+</details>
 
 <br>
 
