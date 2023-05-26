@@ -98,6 +98,15 @@ If you see a project that is no longer maintained or is not a good fit, please s
 
 * [webmethods-opencaf-codesample](https://github.com/SoftwareAG/webmethods-opencaf-codesample) - This OpenCAF showcase demonstrates the majority of default JSF components available in webMethods Composite Application Framework (CAF).
 
+* [webmethods-integrationserver-demo-bootstrap-ui](https://github.com/SoftwareAG/webmethods-integrationserver-demo-bootstrap-ui) - A demo of how to use Bootstrap for a nice UI in your Integration Server package.
+
+* [webmethods-integrationserver-wxpassword](https://github.com/SoftwareAG/webmethods-integrationserver-wxpassword) - The initial functionality is to change the passwords of the built-in users of the webMethods Integration Server (Administrator, Replicator, Developer). The primary use case is deployment in a container.
+
+* [WxSAPIntegration](https://github.com/SoftwareAG/WxSAPIntegration) - WxSAPIntegration is a webMethods Integration Server package that gives a quickstart to develop or demo an integration into SAP ECC. It provides a user-friendly custom UI that specifically allows configuring and managing an SAP connection.
+
+* [WxSimpleConfig](https://github.com/SoftwareAG/WxSimpleConfig) - WxSimpleConfig package is enhancing the configuration automation for Integration Server or MSR. It is useful for external configuration use cases where the user prefers to store the configuration in source control rather than in the config folder.
+
+* [WxNewRelicAgent](https://github.com/SoftwareAG/WxNewRelicAgent) - webMethods package for integrating webMethods Integration Server with New Relic. This package configures the New Relic java agent to ensure that webMethods services are reported as transactions. Includes tracking of custom context IDs to help pinpoint individual business transactions. 
 
 <br>
 
