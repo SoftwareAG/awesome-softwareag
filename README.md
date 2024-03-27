@@ -69,9 +69,7 @@ If you see a project that is no longer maintained or is not a good fit, please s
   * [webmethods.io-community-connector-petstore](https://github.com/SoftwareAG/webmethods.io-community-connector-petstore)
   * [webmethods.io-OpenPGP-Connector](https://github.com/SoftwareAG/webmethods.io-OpenPGP-Connector)
   * [webmethods.io_Chatwork-Community-Connector](https://github.com/SoftwareAG/webmethods.io_Chatwork-Community-Connector)
-  * [webmethods.io-Qlik_Sense-Community-Connector](https://github.com/SoftwareAG/webmethods.io-Qlik_Sense-Community-Connector)
   * [webmethods.io_insightly-Community-Connector](https://github.com/SoftwareAG/webmethods.io_insightly-Community-Connector)
-  * [webmethods.io-Capsule-CRM-Community-Connector](https://github.com/SoftwareAG/webmethods.io-Capsule-CRM-Community-Connector)
   * [webmethods.io-Deputy--Community-Connector](https://github.com/SoftwareAG/webmethods.io-Deputy--Community-Connector)
   * [webmethods.io-Expensify-Community-Connector](https://github.com/SoftwareAG/webmethods.io-Expensify-Community-Connector)
   * [webmethods.io-Tableau-Community-Connector](https://github.com/SoftwareAG/webmethods.io-Tableau-Community-Connector)
@@ -121,8 +119,6 @@ If you see a project that is no longer maintained or is not a good fit, please s
 * [cumulocity-migration-tool](https://github.com/SoftwareAG/cumulocity-migration-tool) - A Cumuocity web app to migrate applications, dashboards, groups, devices, simulators, smart rules, images, and managed objects between tenants.
 
 * [cumulocity-iot-examples](https://github.com/SoftwareAG/cumulocity-iot-examples) - Collection of examples for beginner Cumulocity IoT developers.
-
-* [cumulocityr](https://github.com/SoftwareAG/cumulocityr) - R client for the Cumulocity IoT API. 
 
 * [cumulocity-app-builder](https://github.com/SoftwareAG/cumulocity-app-builder) - Application builder for Cumulocity IoT. A simple way to combine dashboards into a full web application with no coding.
 
@@ -265,3 +261,6 @@ If you see a project that is no longer maintained or is not a good fit, please s
 <br>
 
 **[![124621](https://user-images.githubusercontent.com/23717841/228481674-58d1678e-7206-4367-a211-2ecdd376e0e2.png) Back to top](#contents)**
+
+----
+These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
